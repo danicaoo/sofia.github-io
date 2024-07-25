@@ -1,0 +1,30 @@
+body{
+    font-family: "Playwrite BE VLG", cursive;                                                               background: #3D77FF  ;                                           
+}
+
+header{
+    background:#2C3A58;
+    color: #fff;
+    display: flex;
+    align-items:center;
+    gap: 600px;
+}
+
+.img{
+    display: flex;
+    align-items:center;
+    margin-top: 100px;
+    padding-left: 300px;
+    gap: 35px;
+    background:#2C3A58;
+}
+
+p.img{
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.ens{
+    text-align: center;
+}
